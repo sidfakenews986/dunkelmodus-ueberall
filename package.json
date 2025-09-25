@@ -1,0 +1,15 @@
+{
+  "name": "dunkelmodus-ueberall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building the project...'",
+    "test": "echo 'Running tests...'",
+    "start": "echo 'Starting the app...'",
+    "lint": "echo 'Linting the code...'",
+    "prepare": "npm run build"
+  },
+  "keywords": ["dark mode", "theme", "UI", "user experience"],
+  "author": "Ihr Name",
+  "license": "MIT"
+}
