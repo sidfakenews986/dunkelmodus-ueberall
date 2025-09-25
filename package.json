@@ -10,6 +10,6 @@
     "prepare": "npm run build"
   },
   "keywords": ["dark mode", "theme", "UI", "user experience"],
-  "author": "Your Name",
+  "author": "New Author Name",
   "license": "MIT"
 }
